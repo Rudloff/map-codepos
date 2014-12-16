@@ -1,0 +1,13 @@
+{
+  "name": "map-codepos",
+  "version": "0.1",
+  "description": "Postal codes in Strasbourg",
+  "authors": [
+    "Pierre Rudloff"
+  ],
+  "license": "GPL",
+  "homepage": "https://github.com/Rudloff/map-codepos",
+  "dependencies": {
+    "leaflet": "~0.7.3"
+  }
+}

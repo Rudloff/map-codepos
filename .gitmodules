@@ -1,0 +1,3 @@
+[submodule "php-mbtiles"]
+	path = php-mbtiles
+	url = https://github.com/infostreams/mbtiles-php.git
